@@ -2,9 +2,10 @@
   "name": "tmp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node_modules/parcel-bundler/bin/cli.js index.html"
+    "start": "node_modules/parcel-bundler/bin/cli.js src/index.html",
+    "build": "node_modules/parcel-bundler/bin/cli.js src/index.html"
   },
   "author": "",
   "license": "ISC",
