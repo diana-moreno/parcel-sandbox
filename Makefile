@@ -1,5 +1,5 @@
 ENTRY_POINT=src/index.html
-PARCEL=node_modules/parcel-bundler/bin/cli.js 
+PARCEL=node_modules/.bin/parcel
 
 install:
 	npm i
