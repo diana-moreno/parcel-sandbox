@@ -3,16 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "scripts": {
-    "start": "node_modules/parcel-bundler/bin/cli.js src/index.html",
-    "build": "node_modules/parcel-bundler/bin/cli.js src/index.html"
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",

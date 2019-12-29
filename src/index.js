@@ -1,6 +1,3 @@
-import React from "react"
-import ReactDOM from "react-dom"
-import App from "./app"
+import app from './app';
 
-const mountingNode = document.querySelector("#app")
-ReactDOM.render(App(), mountingNode)
+app();
