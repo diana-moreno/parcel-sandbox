@@ -1,6 +1,6 @@
 # PARCEL-SANDBOX
 
-This is my parcel sandbox to have a easy, fast, and minimal React prototyping tool
+This is my parcel sandbox to have a easy, fast, and minimal web prototyping tool
 
 ## Building and running on localhost
 
